@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crimeTitleHint">Enter a title for the crime.</string>
+    <string name="crimeTitleLabel">Title</string>
+    <string name="crimeDetailsLabel">Details</string>
+    <string name="crimeSolvedLabel">Solved</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

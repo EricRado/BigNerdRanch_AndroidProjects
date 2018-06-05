@@ -4,7 +4,23 @@
     <string name="crimeTitleLabel">Title</string>
     <string name="crimeDetailsLabel">Details</string>
     <string name="crimeSolvedLabel">Solved</string>
+    <string name="datePickerTitle">Date of crime:</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="newCrime">New Crime</string>
+    <string name="showSubtitle">Show Subtitle</string>
+    <string name="hideSubtitle">Hide Subtitle</string>
+    <string name="subtitleFormat">%1$d crimes</string>
+
+    <string name="crimeSuspectText">Choose Suspect</string>
+    <string name="crimeReportText">Send Crime Report</string>
+
+    <string name="crimeReport">%1$s!
+        The crime was discovered on %2$s. %3$s, and %4$s
+    </string>
+    <string name="crimeReportSolved">The case is solved</string>
+    <string name="crimeReportUnsolved">The case is not solved</string>
+    <string name="crimeReportNoSuspect">there is no suspect.</string>
+    <string name="crimeReportSuspect">the suspect is %s.</string>
+    <string name="crimeReportSubject">CriminalIntent Crime Report</string>
+    <string name="sendReport">Send crime report via</string>
 </resources>

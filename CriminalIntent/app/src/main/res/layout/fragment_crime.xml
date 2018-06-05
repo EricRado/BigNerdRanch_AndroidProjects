@@ -36,4 +36,16 @@
         android:layout_height="wrap_content"
         android:text="@string/crimeSolvedLabel"/>
 
+    <Button
+        android:id="@+id/crimeSuspect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/crimeSuspectText"/>
+
+    <Button
+        android:id="@+id/crimeReport"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/crimeReportText"/>
+
 </LinearLayout>
